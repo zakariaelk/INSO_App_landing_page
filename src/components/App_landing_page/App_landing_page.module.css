@@ -1,0 +1,185 @@
+.worker_01.worker_01 {
+  left: 52.4648%;
+  right: 15.6035%;
+  top: 38.7459%;
+  bottom: 0;
+  width: 239.4877px;
+  height: 416.6667px;
+}
+.person.person {
+  top: 6.9643px;
+  width: 239.4877px;
+  height: 409.7017px;
+}
+.person {
+  top: 6.9643px;
+  width: 239.4877px;
+  height: 409.7017px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.appStore.appStore {
+  width: 207.6923px;
+  height: 60px;
+}
+.group.group {
+  width: 207.6923px;
+  height: 60px;
+}
+.group {
+  width: 207.6923px;
+  height: 60px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.googlePlay.googlePlay {
+  width: 166.1539px;
+  height: 48px;
+}
+.group2.group2 {
+  width: 166.1539px;
+  height: 48px;
+}
+.group2 {
+  width: 166.1539px;
+  height: 48px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 1680px;
+  height: 927px;
+  align-items: flex-start;
+}
+.bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1680px;
+  height: 927px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.fg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1068.5px;
+  height: 927px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.splash_visual2 {
+  position: absolute;
+  left: 859.8831px;
+  top: 134.9778px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.group787 {
+  position: relative;
+  width: 750px;
+  height: 680.2266px;
+}
+.inso_world {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 18.1525%;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.social {
+  position: absolute;
+  left: 82px;
+  top: 779.6006px;
+  width: 184.3552px;
+  height: 47.2076px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.logoBg {
+  position: absolute;
+  left: 72px;
+  top: 61px;
+  width: 200.0595px;
+  height: 110.7377px;
+  background-color: #fff0;
+}
+.logoPartialV2 {
+  position: absolute;
+  left: 72px;
+  top: 60px;
+  width: 200px;
+  height: 112px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.mission {
+  position: absolute;
+  left: 82px;
+  top: 282.8948px;
+  width: 691px;
+  height: 228px;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 64px;
+  font-family: Calibri, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #02020a;
+  font-size: 64px;
+  line-height: 68px;
+  font-weight: bold;
+  font-family: Calibri, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.label2 {
+  color: #1b4ba7;
+  font-size: 64px;
+  line-height: 68px;
+  font-weight: bold;
+  font-family: Calibri, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.buttons {
+  position: absolute;
+  left: 82px;
+  top: 533.237px;
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 24px;
+}
